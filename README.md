@@ -50,7 +50,7 @@ The idea of this app came from the way we have evolved at such unprecedented tim
 
 # How We Built It
 
-This project was conceptualized by building wireframes and prototypes using Figma. We then built our project over 2 weeks. We used React and Redux, React Native and Tailwind CSS.
+This project was conceptualized by building wireframes and prototypes using Figma. We then built our project over 2 weeks. We used React and Redux, and Tailwind CSS.
 
 # Getting Started
 
